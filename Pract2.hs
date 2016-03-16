@@ -70,3 +70,5 @@ finsemana a  | a == "lunes" = False
              | a == "viernes" = False
              | a == "sabado" = True
              | a == "domingo" = True
+
+--primer cambio 
